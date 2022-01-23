@@ -1,0 +1,17 @@
+#+TITLE:  Unsplash_README
+#+AUTHOR: pug0
+#+DATE:   <2022-01-23 Sun>
+
+* /unsplash/
+This directory contains wallpapers from [[https://www.unsplash.com][Unsplash]], a stock photo site.
+
+* Credits
+Credits:
+** [[https://unsplash.com/@matthewhenry?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText"][Matthew Henry]]:
+for wallpaper(s) [[https://unsplash.com/photos/2Ts5HnA67k8][Pug_in_a_blanket.jpg]] in this dir.
+** [[https://unsplash.com/@yoadsh][Yoad Shejtman]]:
+for wallpaper(s) [[https://unsplash.com/photos/fn9oNWQ1MBk][Fawn_pug_lying_on_white_textile.jpg]] in this dir.
+** [[https://unsplash.com/@fattycorgi][fatty corgi]]:
+for wallpaper(s) [[https://unsplash.com/photos/g-Dui8tCdrI][Brown_and_white_corgi_puppy.jpg]] in this dir.
+** [[https://unsplash.com/@randomlies][Ashim D'Silva]]:
+for wallpaper(s) [[https://unsplash.com/photos/WeYamle9fDM][Scenery_of_mountain_canyon.jpg]] in this dir.

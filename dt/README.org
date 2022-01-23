@@ -1,0 +1,6 @@
+#+TITLE:  DT_WALLPAPER_README
+#+AUTHOR: pug0
+#+DATE:   <2022-01-23 Sun>
+
+* /dt/
+This directory contains all of the wallpapers from DT's [[https://www.gitlab.com/dwt1/wallpapers][wallpapers repo]].

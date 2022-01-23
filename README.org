@@ -1,0 +1,12 @@
+#+TITLE:  README
+#+AUTHOR: pug0
+#+DATE:   <2022-01-23 Sun>
+
+* desktop-bggrounds
+desktop-bggrounds is a collection of desktop backgrounds.
+
+* /unsplash/
+This directory is for images that are on the stock image site, [[https://www.unsplash.com][Unsplash]].
+
+* /dt/
+This folder is for images from DistroTube's wallpaper repo, [[https://www.gitlab.com/dwt1/wallpapers][dwt1/wallpapers]].
